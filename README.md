@@ -4,7 +4,7 @@ wget https://raw.githubusercontent.com/Argo160/ssh-tunnel/main/NodeMarz.sh -O ss
 ```
 Features:
 
-✅ Automatic SSH key setup - Sets up passwordless authentication 
+✅ Automatic SSH key setup - Sets up passwordless authentication /n
 ✅ Persistent monitoring - Checks connection every 30 seconds 
 ✅ Auto-restart - Restarts tunnel if it fails 
 ✅ Boot persistence - Automatically starts after reboot 
