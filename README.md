@@ -1,6 +1,6 @@
 Tunneling Server A to C via reverse ssh on server B
 ```shell
-wget https://raw.githubusercontent.com/Argo160/ssh-tunnel/main/NodeMarz.sh -O ssh-tunnel && chmod +x ssh-tunnel && bash ssh-tunnel
+wget https://raw.githubusercontent.com/Argo160/ssh-tunnel/main/ssh-tunnel-manager.sh -O ssh-tunnel-manager.sh && chmod +x ssh-tunnel-manager.sh && bash ssh-tunnel-manager.sh
 ```
 Features:
 
